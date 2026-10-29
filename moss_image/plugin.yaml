@@ -1,0 +1,5 @@
+name: moss-image
+version: "1.0.0"
+description: "MOSS-Image on the local TensorFold server: exact sizes, steps, seed and guidance read from the prompt (\"512x512\", \"30 steps\", \"seed 7\", \"guidance 4\"), else the aspect ratio's size. Saves PNGs to the image cache."
+author: "BobClawblaw"
+kind: backend
